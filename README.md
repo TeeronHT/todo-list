@@ -1,2 +1,2 @@
-# todo-list
+# ToDo list
 Creating a simple todo application using JS and Flask
